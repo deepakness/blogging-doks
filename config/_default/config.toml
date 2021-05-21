@@ -1,4 +1,4 @@
-baseurl = "https://blogging-doks.netlify.app"
+baseurl = "/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
