@@ -9,6 +9,6 @@ images: []
 menu:
   docs:
     parent: "blogging basics"
-weight: 320
+weight: 120
 toc: true
 ---

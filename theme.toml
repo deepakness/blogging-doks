@@ -1,7 +1,7 @@
-name = "Blogging Simplified"
+name = "BloggingX"
 license = "MIT"
 licenselink = "https://github.com/h-enk/doks/blob/master/LICENSE"
-description = "Blogging Simplified provides organized information to learn to blog."
+description = "BloggingX provides organized information to learn to blog."
 homepage = "https://blogging-doks.netlify.app/"
 tags = ["blogging simplified", "learn blogging", "learn to blog", "blogging", "blogging basics", "blogging 101", "blogging docs", "blogging documentation", "how to blog"]
 features = ["security aware", "fast by default", "seo-ready", "development tools", "bootstrap framework", "netlify-ready", "full text search", "page layouts", "dark mode"]

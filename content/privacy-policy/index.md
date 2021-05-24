@@ -3,7 +3,7 @@ title: "Privacy Policy"
 description: "Blogging Simplified does not use cookies and does not collect any personal data."
 date: 2021-05-20T19:23:18+02:00
 lastmod: 2021-05-20T19:23:18+02:00
-draft: true
+draft: false
 images: []
 ---
 
